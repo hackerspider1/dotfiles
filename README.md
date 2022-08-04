@@ -1,6 +1,6 @@
 # iTerm Custom Theme
 
-![iTerm2](https://github.com/hackerspider1/dotfiles/blob/main/Terminal.jpg)
+![iTerm2](https://raw.githubusercontent.com/hackerspider1/dotfiles/main/Screenshots/Terminal.jpg)
 
 ## Install Brew
 `
@@ -28,8 +28,8 @@ Once everything is installed copy the .zshrc file from https://github.com/hacker
 
 ### Import iTermcolors
 
-![iTermcolors]()
+![iTermcolors](https://raw.githubusercontent.com/hackerspider1/dotfiles/main/Screenshots/iTermcolors.jpg)
 
 ### Import iTerm2 Profile
 
-![iTerm Profile]()
+![iTerm Profile](https://raw.githubusercontent.com/hackerspider1/dotfiles/main/Screenshots/iTerm%20Profile.jpg)
