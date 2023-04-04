@@ -13,7 +13,7 @@ Please note that although I try to keep these files up-to-date, changes to the s
 
     git clone https://github.com/hackerspider1/dotfiles.git
     cd dotfiles
-    mv .zsh/ .config/ .warp/ .zahrc -t ~/
+    mv .zsh/ .config/ .warp/ .zshrc -t ~/
 
 
 ## Install Warp
