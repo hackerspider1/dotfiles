@@ -44,3 +44,7 @@ To display icons in terminal or applications Fonts, I'm using [Nerd-Fonts](https
 ![Warp Theme](https://raw.githubusercontent.com/hackerspider1/dotfiles/main/Screenshots/Warp%20Theme.png)
 
 ![Warp Settings](https://raw.githubusercontent.com/hackerspider1/dotfiles/main/Screenshots/Warp%20Setting.png)
+
+Make Sure to enable PS1 for custom prompt from features.
+
+![Feature](https://raw.githubusercontent.com/hackerspider1/dotfiles/main/Screenshots/PS1.png)
