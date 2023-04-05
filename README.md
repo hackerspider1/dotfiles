@@ -1,8 +1,10 @@
 <div align="center">
 
-# Warp + Starship
+# Warp + Starship + VS Code
 
-<img src="https://avatars.githubusercontent.com/u/71840468?s=200&v=4" alt="iTermProfile" width="50"/>  <img src="https://starship.rs/logo.svg" alt="Starship" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/71840468?s=200&v=4" alt="iTermProfile" width="50"/> 
+<img src="https://starship.rs/logo.svg" alt="Starship" width="200"/> 
+<img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="code" height="70" width="100"/>
   </div>
 
 My Dotfiles repository houses my personalized configuration files for Linux and macOS, encompassing different settings, themes, and tweaks that I use to tailor my computing experience. 
@@ -48,3 +50,13 @@ To display icons in terminal or applications Fonts, I'm using [Nerd-Fonts](https
 Make Sure to enable PS1 for custom prompt from features.
 
 ![Feature](https://raw.githubusercontent.com/hackerspider1/dotfiles/main/Screenshots/PS1.png)
+
+If you want to have same colors for VS code :)
+
+```
+cd /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/theme-defaults
+```
+
+change dark-plus.json with [dark_plus.json](https://github.com/hackerspider1/dotfiles/blob/main/dark-plus.json)
+
+![VS_Code](https://raw.githubusercontent.com/hackerspider1/dotfiles/main/Screenshots/VS_code.png)
